@@ -1,8 +1,8 @@
-import Staking from "./Staking";
+import Voting from "./Voting";
 
 function App(){
   return(
-    <Staking />
+    <Voting />
   );
 }
 
